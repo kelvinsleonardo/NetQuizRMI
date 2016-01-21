@@ -1,0 +1,22 @@
+2016-01-13 17:24:51.323 INFO  br.com.netquiz.servidor.impl.ServidorImpl [main] - Criando registro com o nome 'JogoNetQuiz'...
+2016-01-13 17:24:51.326 INFO  br.com.netquiz.servidor.impl.ServidorImpl [main] - Servidor inicializado com sucesso...
+2016-01-13 17:24:51.326 INFO  br.com.netquiz.servidor.impl.ServidorImpl [main] - Esperando conexões na porta '6789'...
+2016-01-13 17:27:37.975 INFO  br.com.netquiz.servidor.impl.ServidorImpl [registrar] - Jogador 1 - [KELVIN] conectado com sucesso
+2016-01-13 17:28:20.333 INFO  br.com.netquiz.servidor.impl.ServidorImpl [registrar] - Jogador 2 - [RODRIGO] conectado com sucesso
+2016-01-13 17:28:20.648 INFO  org.hibernate.jpa.internal.util.LogHelper [logPersistenceUnitInformation] - HHH000204: Processing PersistenceUnitInfo [
+	name: netquiz
+	...]
+2016-01-13 17:28:20.811 INFO  org.hibernate.Version [logVersion] - HHH000412: Hibernate Core {5.0.2.Final}
+2016-01-13 17:28:20.813 INFO  org.hibernate.cfg.Environment [<clinit>] - HHH000206: hibernate.properties not found
+2016-01-13 17:28:20.816 INFO  org.hibernate.cfg.Environment [buildBytecodeProvider] - HHH000021: Bytecode provider name : javassist
+2016-01-13 17:28:20.889 INFO  org.hibernate.annotations.common.Version [<clinit>] - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-01-13 17:28:21.062 WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl [configure] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-01-13 17:28:21.102 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl [buildCreator] - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/netquiz]
+2016-01-13 17:28:21.103 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl [buildCreator] - HHH000046: Connection properties: {user=root, password=****}
+2016-01-13 17:28:21.104 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl [buildCreator] - HHH000006: Autocommit mode: false
+2016-01-13 17:28:21.106 INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl [configure] - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-01-13 17:28:21.575 INFO  org.hibernate.dialect.Dialect [<init>] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2016-01-13 17:28:22.233 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate [execute] - HHH000228: Running hbm2ddl schema update
+2016-01-13 17:28:22.330 INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [initiateService] - HHH000397: Using ASTQueryTranslatorFactory
+2016-01-13 17:28:22.794 INFO  br.com.netquiz.servidor.impl.ServidorImpl [lambda$0] - O Jogo está sendo iniciado...
+2016-01-13 17:28:22.798 INFO  br.com.netquiz.servidor.impl.ServidorImpl [lambda$0] - O Jogo está sendo iniciado...
